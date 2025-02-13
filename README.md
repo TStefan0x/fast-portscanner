@@ -23,7 +23,7 @@ cd fast-portscanner
 ```
 # Install requirements
 ```bash
-pip install -r requirements.txt
+No requierments needed
 ```
 # Make executable (if necessary)
 ```bash
