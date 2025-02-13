@@ -27,19 +27,19 @@ No requierments needed
 ```
 # Make executable (if necessary)
 ```bash
-chmod +x portscanner.py
+chmod +x main.py
 ```
 # Scan multiple ports
 ```bash
-./portscanner.py 192.168.1.0/24 --ports 22,80,443
+./main.py 192.168.1.0/24 --ports 22,80,443
 ```
 # Enable banner grabbing (use with caution)
 ```bash
-./portscanner.py 192.168.1.0/24 --ports 80 --banner
+./main.py 192.168.1.0/24 --ports 80 --banner
 ```
 # Command Line Options
 
-usage: portscanner.py [-h] [--ports PORTS] [--banner] [--threads THREADS] target
+usage: main.py [-h] [--ports PORTS] [--banner] [--threads THREADS] target
 
 Network Port Scanner
 
