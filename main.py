@@ -27,6 +27,7 @@ class PortScanner:
 \033[32m╔════════════════════════════════════════╗
 ║    Network Port Scanner v1.0           ║
 ║    For Educational Purposes Only!      ║
+║    Made by TStefan0x.                  ║
 ╚════════════════════════════════════════╝\033[0m
 
 \033[33m[!] Legal Disclaimer: This tool is for educational 
