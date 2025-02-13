@@ -1,0 +1,3 @@
+# Advanced Network Port Scanner
+# This project uses only Python's Standard Library.
+# No external dependencies are required.
