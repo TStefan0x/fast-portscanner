@@ -1,6 +1,7 @@
 # Advanced Network Port Scanner
 
 This is an educational project demonstrating a high-performance, multi-threaded network port scanner. It's designed for learning about network security concepts and practicing ethical hacking techniques in controlled environments.
+# I WILL NOT BE RESPOSIBLE FOR ANY DAMAGE DONE !!!!
 
 **Features**
 
